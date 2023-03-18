@@ -1,0 +1,22 @@
+{
+  "name": "@radoslav-grencik/prettierrc",
+  "version": "0.0.1",
+  "description": ".prettierrc",
+  "main": ".prettierrc.json",
+  "author": "radoslav-grencik",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radoslav-grencik/prettierrc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radoslav-grencik/prettierrc/issues"
+  },
+  "homepage": "https://github.com/radoslav-grencik/prettierrc",
+  "publishConfig": {
+    "access": "public"
+  }
+}
