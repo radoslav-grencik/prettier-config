@@ -1,7 +1,7 @@
 {
   "name": "@radoslav-grencik/prettierrc",
-  "version": "1.0.0",
-  "description": ".prettierrc.json",
+  "version": "1.0.1",
+  "description": "Prettier configuration by Radoslav Grenčík",
   "keywords": [
     "prettier"
   ],
