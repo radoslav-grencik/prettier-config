@@ -1,7 +1,10 @@
 {
   "name": "@radoslav-grencik/prettierrc",
-  "version": "0.0.1",
-  "description": ".prettierrc",
+  "version": "1.0.0",
+  "description": ".prettierrc.json",
+  "keywords": [
+    "prettier"
+  ],
   "main": ".prettierrc.json",
   "author": "radoslav-grencik",
   "license": "MIT",
