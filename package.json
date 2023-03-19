@@ -1,9 +1,10 @@
 {
-  "name": "@radoslav-grencik/prettierrc",
-  "version": "1.0.3",
+  "name": "@radoslav-grencik/prettier-config",
+  "version": "1.0.0",
   "description": "Prettier configuration by Radoslav Grenčík",
   "keywords": [
-    "prettier"
+    "prettier",
+    "prettierconfig"
   ],
   "main": ".prettierrc.json",
   "author": "radoslav-grencik",
@@ -13,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/radoslav-grencik/prettierrc.git"
+    "url": "https://github.com/radoslav-grencik/prettier-config.git"
   },
   "bugs": {
-    "url": "https://github.com/radoslav-grencik/prettierrc/issues"
+    "url": "https://github.com/radoslav-grencik/prettier-config/issues"
   },
-  "homepage": "https://github.com/radoslav-grencik/prettierrc",
+  "homepage": "https://github.com/radoslav-grencik/prettier-config",
   "publishConfig": {
     "access": "public"
   }
