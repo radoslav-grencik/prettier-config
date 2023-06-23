@@ -1,4 +1,4 @@
-## Installation
+# Installation
 
 Install the package and its peer dependencies:
 
