@@ -13,5 +13,15 @@
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "es5",
-  "useTabs": false
+  "useTabs": false,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "overrides": [
+    {
+      "files": ["*.latte"],
+      "options": {
+        "parser": "html",
+        "tabWidth": 4
+      }
+    }
+  ]
 }

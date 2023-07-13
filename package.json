@@ -1,6 +1,6 @@
 {
   "name": "@radoslav-grencik/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier configuration by Radoslav Grenčík",
   "keywords": [
     "prettier",
@@ -10,7 +10,8 @@
   "author": "radoslav-grencik",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "^2.8.4"
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.0"
   },
   "repository": {
     "type": "git",
